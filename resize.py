@@ -20,9 +20,6 @@ args = vars(ap.parse_args())
 
 images,names = load_images_from_folder("./"+args["path"])
 
-# images = list_images(args["path"])
-
-
 for image,name in zip(images,names):
     shape = image.shape
     width = shape[1]
