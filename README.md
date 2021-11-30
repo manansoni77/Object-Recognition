@@ -19,3 +19,5 @@ Commands to run this project on your machine
 * To detect objects in Photos directory "python Object_Detection.py --image Photos --model-weights MobileNetSSD.caffemodel --model-structure MobileNetSSD.prototxt.txt -c 0.5"
 
 Every image will be displayed like a pop up with bounding boxes, class, and confidence (in percentage) for every detected object, a list of detected objects with confidence level will also be printed to console
+
+Youtube Video Link - https://www.youtube.com/watch?v=xXGZyaZWf50&ab_channel=MananSoni
