@@ -1,5 +1,4 @@
-# TSF
-TSF Internship Submissions
+# Object Recognition
 
 Description
 This Project uses a pretrained model (MobileNetSSD) to recognise objects in images
